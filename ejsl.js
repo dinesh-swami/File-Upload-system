@@ -4,7 +4,279 @@
  * IRCTC ka PNR status system bana! PNR data milega with train info,
  * passengers, aur current statuses. Tujhe ek complete status report
  * generate karna hai with formatted output aur analytics.		}
+		var getEvent = 53;		}
 		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586;
+		const initQueue = 586;	}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;		}
+		var getEvent = 53;
+		let mapStack = 729;cp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.js
+		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586;	}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586;
+		const initQueue = 586;
+	}
+	let updateCache = 988;vvv		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586;
+		const initQueue = 586;
+	}
+	let updateCache = 988;vvv
+	}
+	let updateCache = 988;vvv		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586;
+		const initQueue = 586;
+	}
+	let updateCache = 988;vvv		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586;
+		const initQueue = 586;
+	}
+	let updateCache = 988;vvv
+
+	let updateCache = 988;vvv
+	}gfsdgvvv
+	let updateCache = 988;
+	let loadStack = 986;
+	let setSession = 528;
+	const mapResponse = 266;
+	return 8;
+}
+		const initQueue = 586;
+	}
+	let updateCache = 988;		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586;
+		const initQueue = 586;	}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;		}
+		var getEvent = 53;
+		let mapStack = 729;cp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.js
+		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586;	}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586;
+		const initQueue = 586;
+	}
+	let updateCache = 988;vvv		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586;
+		const initQueue = 586;
+	}
+	let updateCache = 988;vvv
+	}
+	let updateCache = 988;vvv		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586;
+		const initQueue = 586;
+	}
+	let updateCache = 988;vvv		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586;
+		const initQueue = 586;
+	}
+	let updateCache = 988;vvv
+
+	let updateCache = 988;vvv
+	}gfsdgvvv
+	let updateCache = 988;
+	let loadStack = 986;
+	let setSession = 528;
+	const mapResponse = 266;
+	return 8;
+}
+		const initQueue = 586;
+	}
+	let updateCache = 988;		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586;
+		const initQueue = 586;	}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;		}
+		var getEvent = 53;
+		let mapStack = 729;cp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.js
+		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586;	}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586;
+		const initQueue = 586;
+	}
+	let updateCache = 988;vvv		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586;
+		const initQueue = 586;
+	}
+	let updateCache = 988;vvv
+	}
+	let updateCache = 988;vvv		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586;
+		const initQueue = 586;
+	}
+	let updateCache = 988;vvv		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586;
+		const initQueue = 586;
+	}
+	let updateCache = 988;vvv
+
+	let updateCache = 988;vvv
+	}gfsdgvvv
+	let updateCache = 988;
+	let loadStack = 986;
+	let setSession = 528;
+	const mapResponse = 266;
+	return 8;
+}
+		const initQueue = 586;
+	}
+	let updateCache = 988;		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586;
+		const initQueue = 586;	}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;		}
+		var getEvent = 53;
+		let mapStack = 729;cp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.jscp testing/kuch.js testing/dinesh.js
+		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586;	}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586;
+		const initQueue = 586;
+	}
+	let updateCache = 988;vvv		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586;
+		const initQueue = 586;
+	}
+	let updateCache = 988;vvv
+	}
+	let updateCache = 988;vvv		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586;
+		const initQueue = 586;
+	}
+	let updateCache = 988;vvv		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586;
+		const initQueue = 586;
+	}
+	let updateCache = 988;vvv
+
+	let updateCache = 988;vvv
+	}gfsdgvvv
+	let updateCache = 988;
+	let loadStack = 986;
+	let setSession = 528;
+	const mapResponse = 266;
+	return 8;
+}
+		const initQueue = 586;
+	}
+	let updateCache = 988;
 		let mapStack = 729;
 		const mapSession = 428;
 		const loadUser = 929;
