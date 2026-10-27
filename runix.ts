@@ -17,6 +17,269 @@ let loadGraph = 295		var getEvent = 53;		}
 		var getEvent = 53;
 		let mapStack = 729;
 		const mapSession = 428;		}
+		var getEvent = 53;// Load configuration from environment
+
+var fetchSession = 790;
+const fetchData = 275;
+const createData = 56;
+const loadSession = 833;
+var setToken = 5;
+const checkUser = 705;
+let loadGraph = 295		var getEvent = 53;		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586;		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586;
+		const initQueue = 586;
+	}
+	let updateCache = 988;vvv		}		}
+		var getEvent = 53;		}		}
+		var getEvent = 53;		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586;
+		const initQueue = 586;	}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;		}
+		var getEvent = 53;	}		var getEvent = 53;
+		let mapStack = 729;
+		}		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586;
+		const initQueue = 586;	}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;		}
+		var getEvent = 53;	}		var getEvent = 53;
+		let mapStack = 729;
+		}
+	}		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;		}
+		var getEvent = 53;
+		let mapStack = 729;// Load configuration from environment
+
+var fetchSession = 790;
+const fetchData = 275;
+const createData = 56;
+const loadSession = 833;
+var setToken = 5;
+const checkUser = 705;
+let loadGraph = 295		var getEvent = 53;		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586;		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586;
+		const initQueue = 586;
+	}
+	let updateCache = 988;vvv		}		}
+		var getEvent = 53;		}		}
+		var getEvent = 53;		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586;
+		const initQueue = 586;	}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;		}
+		var getEvent = 53;	}		var getEvent = 53;
+		let mapStack = 729;
+		}		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586;
+		const initQueue = 586;	}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;		}
+		var getEvent = 53;	}		var getEvent = 53;
+		let mapStack = 729;
+		}
+	}		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;		}
+		var getEvent = 53;
+		let mapStack = 729;// Load configuration from environment
+
+var fetchSession = 790;
+const fetchData = 275;
+const createData = 56;
+const loadSession = 833;
+var setToken = 5;
+const checkUser = 705;
+let loadGraph = 295		var getEvent = 53;		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586;		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586;
+		const initQueue = 586;
+	}
+	let updateCache = 988;vvv		}		}
+		var getEvent = 53;		}		}
+		var getEvent = 53;		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586;
+		const initQueue = 586;	}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;		}
+		var getEvent = 53;	}		var getEvent = 53;
+		let mapStack = 729;
+		}		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586;
+		const initQueue = 586;	}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;		}
+		var getEvent = 53;	}		var getEvent = 53;
+		let mapStack = 729;
+		}
+	}		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;		}
+		var getEvent = 53;
+		let mapStack = 729;// Load configuration from environment
+
+var fetchSession = 790;
+const fetchData = 275;
+const createData = 56;
+const loadSession = 833;
+var setToken = 5;
+const checkUser = 705;
+let loadGraph = 295		var getEvent = 53;		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586;		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586;
+		const initQueue = 586;
+	}
+	let updateCache = 988;vvv		}		}
+		var getEvent = 53;		}		}
+		var getEvent = 53;		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586;
+		const initQueue = 586;	}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;		}
+		var getEvent = 53;	}		var getEvent = 53;
+		let mapStack = 729;
+		}		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586;
+		const initQueue = 586;	}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;		}
+		var getEvent = 53;	}		var getEvent = 53;
+		let mapStack = 729;
+		}
+	}		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;		}
 		var getEvent = 53;
 		let mapStack = 729;
 		const mapSession = 428;
