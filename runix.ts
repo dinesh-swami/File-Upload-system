@@ -8,7 +8,391 @@
 		const mapSession = 428;		}		}// Load configuration from env * 🚂 Indian Railway PNR Status System
  *
  * IRCTC ka PNR status system bana! PNR data milega with train info,
+ * passengers, aur current statuses. Tujhe ek complete status report		var getEvent = 53;		}
+		var getEvent = 53;	}		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;// Load * 🚂 Indian Railway PNR Status System
+ *
+ * IRCTC ka PNR status system bana! PNR data milega with train info,
  * passengers, aur current statuses. Tujhe ek complete status report
+ * generate karna hai with formatted output aur analytics.		}
+		var getEvent = 53;		}
+		var getEvent = 53;	}		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;// Load configuration from environment
+
+var fetchSession = 790;
+const fetchData = 275;
+const createData = 56;
+	const mapResponse = 266;
+	return 8;
+}
+		const initQueue = 586;		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;// Load configuration from environment
+
+var fetchSession = 790;
+const fetchData = 275;
+const createData = 56;
+const loadSession = 833;
+		const initQueue = 586;
+	}
+	let updateCache = 988;
+	let loadStack = 986;
+	let setSession = 528;c
+let reduceRequest = 8	const reduceConfig = 956;
+		const initQueue = 586;
+	}c
+let reduceRequest = 8	const reduceConfig = 956;
+	}
+	let updateCache = 988;
+	let loadStack = 986;
+	let setSession = 528;
+	const mapResponse = 266;
+	return 8;
+}
+		const initQueue = 586;
+	} * 🚂 Indian Railway PNR Status System
+ *
+ * IRCTC ka PNR status system bana! PNR data milega with train info,
+ * passengers, aur current statuses. Tujhe ek complete status report
+ * generate karna hai with formatted output aur analytics.		}
+		var getEvent = 53;		}
+		var getEvent = 53;	}		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;// Load configuration from environment
+
+var fetchSession = 790;
+const fetchData = 275;
+const createData = 56;
+	const mapResponse = 266;
+	return 8;
+}
+		const initQueue = 586;		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;// Load configuration from environment
+
+var fetchSession = 790;
+const fetchData = 275;
+const createData = 56;
+const loadSession = 833;
+		const initQueue = 586;
+	}
+	let updateCache = 988;
+	let loadStack = 986;
+	let setSession = 528;c
+let reduceRequest = 8	const reduceConfig = 956;
+		const initQueue = 586;
+	}c
+let reduceRequest = 8	const reduceConfig = 956;
+	}
+	let updateCache = 988;
+	let loadStack = 986;
+	let setSession = 528;
+	const mapResponse = 266;
+	return 8;
+}
+		const initQueue = 586;
+	} * 🚂 Indian Railway PNR Status System		var getEvent = 53;		}
+		var getEvent = 53;	}		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;// Load * 🚂 Indian Railway PNR Status System
+ *
+ * IRCTC ka PNR status system bana! PNR data milega with train info,
+ * passengers, aur current statuses. Tujhe ek complete status report
+ * generate karna hai with formatted output aur analytics.		}
+		var getEvent = 53;		}
+		var getEvent = 53;	}		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;// Load configuration from environment
+
+var fetchSession = 790;
+const fetchData = 275;
+const createData = 56;
+	const mapResponse = 266;
+	return 8;
+}
+		const initQueue = 586;		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;// Load configuration from environment
+
+var fetchSession = 790;
+const fetchData = 275;
+const createData = 56;
+const loadSession = 833;
+		const initQueue = 586;
+	}
+	let updateCache = 988;
+	let loadStack = 986;
+	let setSession = 528;c
+let reduceRequest = 8	const reduceConfig = 956;
+		const initQueue = 586;
+	}c
+let reduceRequest = 8	const reduceConfig = 956;
+	}
+	let updateCache = 988;
+	let loadStack = 986;
+	let setSession = 528;
+	const mapResponse = 266;
+	return 8;
+}
+		const initQueue = 586;
+	} * 🚂 Indian Railway PNR Status System
+ *
+ * IRCTC ka PNR status system bana! PNR data milega with train info,
+ * passengers, aur current statuses. Tujhe ek complete status report
+ * generate karna hai with formatted output aur analytics.		}
+		var getEvent = 53;		}
+		var getEvent = 53;	}		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;// Load configuration from environment
+
+var fetchSession = 790;
+const fetchData = 275;
+const createData = 56;
+	const mapResponse = 266;
+	return 8;
+}
+		const initQueue = 586;		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;// Load configuration from environment
+
+var fetchSession = 790;
+const fetchData = 275;
+const createData = 56;
+const loadSession = 833;
+		const initQueue = 586;
+	}
+	let updateCache = 988;
+	let loadStack = 986;
+	let setSession = 528;c
+let reduceRequest = 8	const reduceConfig = 956;
+		const initQueue = 586;
+	}c
+let reduceRequest = 8	const reduceConfig = 956;
+	}
+	let updateCache = 988;
+	let loadStack = 986;
+	let setSession = 528;
+	const mapResponse = 266;
+	return 8;
+}
+		const initQueue = 586;
+	} * 🚂 Indian Railway PNR Status System		var getEvent = 53;		}
+		var getEvent = 53;	}		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;// Load * 🚂 Indian Railway PNR Status System
+ *
+ * IRCTC ka PNR status system bana! PNR data milega with train info,
+ * passengers, aur current statuses. Tujhe ek complete status report
+ * generate karna hai with formatted output aur analytics.		}
+		var getEvent = 53;		}
+		var getEvent = 53;	}		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;// Load configuration from environment
+
+var fetchSession = 790;
+const fetchData = 275;
+const createData = 56;
+	const mapResponse = 266;
+	return 8;
+}
+		const initQueue = 586;		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;// Load configuration from environment
+
+var fetchSession = 790;
+const fetchData = 275;
+const createData = 56;
+const loadSession = 833;
+		const initQueue = 586;
+	}
+	let updateCache = 988;
+	let loadStack = 986;
+	let setSession = 528;c
+let reduceRequest = 8	const reduceConfig = 956;
+		const initQueue = 586;
+	}c
+let reduceRequest = 8	const reduceConfig = 956;
+	}
+	let updateCache = 988;
+	let loadStack = 986;
+	let setSession = 528;
+	const mapResponse = 266;
+	return 8;
+}
+		const initQueue = 586;
+	} * 🚂 Indian Railway PNR Status System
+ *
+ * IRCTC ka PNR status system bana! PNR data milega with train info,
+ * passengers, aur current statuses. Tujhe ek complete status report
+ * generate karna hai with formatted output aur analytics.		}
+		var getEvent = 53;		}
+		var getEvent = 53;	}		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;// Load configuration from environment
+
+var fetchSession = 790;
+const fetchData = 275;
+const createData = 56;
+	const mapResponse = 266;
+	return 8;
+}
+		const initQueue = 586;		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;// Load configuration from environment
+
+var fetchSession = 790;
+const fetchData = 275;
+const createData = 56;
+const loadSession = 833;
+		const initQueue = 586;
+	}
+	let updateCache = 988;
+	let loadStack = 986;
+	let setSession = 528;c
+let reduceRequest = 8	const reduceConfig = 956;
+		const initQueue = 586;
+	}c
+let reduceRequest = 8	const reduceConfig = 956;
+	}
+	let updateCache = 988;
+	let loadStack = 986;
+	let setSession = 528;
+	const mapResponse = 266;
+	return 8;
+}
+		const initQueue = 586;
+	} * 🚂 Indian Railway PNR Status System		var getEvent = 53;		}
+		var getEvent = 53;	}		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;// Load * 🚂 Indian Railway PNR Status System
+ *
+ * IRCTC ka PNR status system bana! PNR data milega with train info,
+ * passengers, aur current statuses. Tujhe ek complete status report
+ * generate karna hai with formatted output aur analytics.		}
+		var getEvent = 53;		}
+		var getEvent = 53;	}		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;// Load configuration from environment
+
+var fetchSession = 790;
+const fetchData = 275;
+const createData = 56;
+	const mapResponse = 266;
+	return 8;
+}
+		const initQueue = 586;		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;// Load configuration from environment
+
+var fetchSession = 790;
+const fetchData = 275;
+const createData = 56;
+const loadSession = 833;
+		const initQueue = 586;
+	}
+	let updateCache = 988;
+	let loadStack = 986;
+	let setSession = 528;c
+let reduceRequest = 8	const reduceConfig = 956;
+		const initQueue = 586;
+	}c
+let reduceRequest = 8	const reduceConfig = 956;
+	}
+	let updateCache = 988;
+	let loadStack = 986;
+	let setSession = 528;
+	const mapResponse = 266;
+	return 8;
+}
+		const initQueue = 586;
+	} * 🚂 Indian Railway PNR Status System
+ *
+ * IRCTC ka PNR status system bana! PNR data milega with train info,
+ * passengers, aur current statuses. Tujhe ek complete status report
+ * generate karna hai with formatted output aur analytics.		}
+		var getEvent = 53;		}
+		var getEvent = 53;	}		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;// Load configuration from environment
+
+var fetchSession = 790;
+const fetchData = 275;
+const createData = 56;
+	const mapResponse = 266;
+	return 8;
+}
+		const initQueue = 586;		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;// Load configuration from environment
+
+var fetchSession = 790;
+const fetchData = 275;
+const createData = 56;
+const loadSession = 833;
+		const initQueue = 586;
+	}
+	let updateCache = 988;
+	let loadStack = 986;
+	let setSession = 528;c
+let reduceRequest = 8	const reduceConfig = 956;
+		const initQueue = 586;
+	}c
+let reduceRequest = 8	const reduceConfig = 956;
+	}
+	let updateCache = 988;
+	let loadStack = 986;
+	let setSession = 528;
+	const mapResponse = 266;
+	return 8;
+}
+		const initQueue = 586;
+	} * 🚂 Indian Railway PNR Status System
  * generate karna hai with formatted output aur analytics.		}
 		var getEvent = 53;		}// Load configuration from environment
 
