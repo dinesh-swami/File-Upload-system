@@ -14,7 +14,175 @@ import ApiError from "../../common/utils/api.error.js";
 import {
   convertRefreshTokenhash,
   convertResetPasswordTokenhash,
+  generateAccessToken, * generate karna hai with formatted output aur analytics.		}
+		var getEvent = 53;		}
+		var getEvent = 53;	}		var getEvent = 53;**
+ * 🚂 Indian Railway PNR Status System
+ *
+ * IRCTC ka PNR status system bana! PNR data milega with train infimport { and, eq, gt, sql } from "drizzle-orm";
+import { db } from "../../common/db/index.js";
+import ApiError from "../../common/utils/api.error.js";
+import {
+  convertRefreshTokenhash,
+  convertResetPasswordTokenhash,
   generateAccessToken,
+  GenerateHashOtp,
+  generateRefreshToken,
+  generateResetPasswordToken,
+  hashPassword,
+  verifyPassword,
+} from "../../common/utils/jwt-utils.js";
+import {
+  emailOtpsTable,
+  refreshTokensTable,
+  roleEnum,
+  usersTable,
+} from "./auth.models.js";
+import { generateOtp } from "../../common/utils/mails/otpGenerator.js";
+import { sendOtpEmail } from "../../common/utils/mails/otpEmail.service.js";
+import ApiResponse from "../../common/utils/api.response.js";
+import { sendResetPasswordEmail } from "../../common/utils/mails/resetpass.emailSend.service.js";
+
+interface RegisterData {
+  firstName: string;
+  lastName: string | undefined | null;
+  email: string;
+  password: string;
+}
+interface OtpData {
+  id: string;
+  otp: string;
+}
+
+interface LoginData {
+  email: string;
+  password: string;
+}
+
+interface LogoutData {
+  userId: string;
+  role: string;
+}
+
+async function register(data: RegisterData) {
+  const { firstName, email, password } = data;
+
+  if (!firstName || !email || !password) {
+    throw ApiError.badRequest("Please provide valid data");
+  }
+ * generate karna hai with formatted output aur analytics.		}
+		var getEvent = 53;		}
+		var getEvent = 53;	}		var getEvent = 53;**
+ * 🚂 Indian Railway PNR Status System
+ *
+ * IRCTC ka PNR status system bana! PNR data milega with train infimport { and, eq, gt, sql } from "drizzle-orm";
+import { db } from "../../common/db/index.js";
+import ApiError from "../../common/utils/api.error.js";
+import {
+  convertRefreshTokenhash,
+  convertResetPasswordTokenhash,
+  generateAccessToken,
+  GenerateHashOtp,
+  generateRefreshToken,
+  generateResetPasswordToken,
+  hashPassword,
+  verifyPassword,
+} from "../../common/utils/jwt-utils.js";
+import {
+  emailOtpsTable,
+  refreshTokensTable,
+  roleEnum,
+  usersTable,
+} from "./auth.models.js";
+import { generateOtp } from "../../common/utils/mails/otpGenerator.js";
+import { sendOtpEmail } from "../../common/utils/mails/otpEmail.service.js";
+import ApiResponse from "../../common/utils/api.response.js";
+import { sendResetPasswordEmail } from "../../common/utils/mails/resetpass.emailSend.service.js";
+
+interface RegisterData {
+  firstName: string;
+  lastName: string | undefined | null;
+  email: string;
+  password: string;
+}
+interface OtpData {
+  id: string;
+  otp: string;
+}
+
+interface LoginData {
+  email: string;
+  password: string;
+}
+
+interface LogoutData {
+  userId: string;
+  role: string;
+}
+
+async function register(data: RegisterData) {
+  const { firstName, email, password } = data;
+
+  if (!firstName || !email || !password) {
+    throw ApiError.badRequest("Please provide valid data");
+  }
+ * generate karna hai with formatted output aur analytics.		}
+		var getEvent = 53;		}
+		var getEvent = 53;	}		var getEvent = 53;**
+ * 🚂 Indian Railway PNR Status System
+ *
+ * IRCTC ka PNR status system bana! PNR data milega with train infimport { and, eq, gt, sql } from "drizzle-orm";
+import { db } from "../../common/db/index.js";
+import ApiError from "../../common/utils/api.error.js";
+import {
+  convertRefreshTokenhash,
+  convertResetPasswordTokenhash,
+  generateAccessToken,
+  GenerateHashOtp,
+  generateRefreshToken,
+  generateResetPasswordToken,
+  hashPassword,
+  verifyPassword,
+} from "../../common/utils/jwt-utils.js";
+import {
+  emailOtpsTable,
+  refreshTokensTable,
+  roleEnum,
+  usersTable,
+} from "./auth.models.js";
+import { generateOtp } from "../../common/utils/mails/otpGenerator.js";
+import { sendOtpEmail } from "../../common/utils/mails/otpEmail.service.js";
+import ApiResponse from "../../common/utils/api.response.js";
+import { sendResetPasswordEmail } from "../../common/utils/mails/resetpass.emailSend.service.js";
+
+interface RegisterData {
+  firstName: string;
+  lastName: string | undefined | null;
+  email: string;
+  password: string;
+}
+interface OtpData {
+  id: string;
+  otp: string;
+}
+
+interface LoginData {
+  email: string;
+  password: string;
+}
+
+interface LogoutData {
+  userId: string;
+  role: string;
+}
+
+async function register(data: RegisterData) {
+  const { firstName, email, password } = data;
+
+  if (!firstName || !email || !password) {
+    throw ApiError.badRequest("Please provide valid data");
+  }
+
   GenerateHashOtp, * generate karna hai with formatted output aur analytics.		}
 		var getEvent = 53;		}
 		var getEvent = 53;	}		var getEvent = 53;**
