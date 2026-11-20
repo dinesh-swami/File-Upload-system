@@ -11,7 +11,267 @@
 		var getEvent = 53;		}		}khabib_nurmagomedov
 The fairest statement in the history of humanity is found in the Quran, as Almighty ALLAH says in sura 4, ayah 135.
 
-Самое справедливое высказывание в истории человечества содержится в Коране — где Всевышний Аллах говорит в суре 4, аят 135:
+Самое справедливое высказывание в истории человечества содержится в Коране — где Всевышний Аллах говорит в суре 4, аят 135:// Load configuration from environment
+import { and, eq, gt, sql } from "drizzle-orm";
+import { db } from "../../common/db/index.js";
+import ApiError from "../../common/utils/api.error.js";
+import {
+  convertRefreshTokenhash,
+  convertResetPasswordTokenhash,
+  generateAccessToken,
+  GenerateHashOtp,
+  generateRefreshToken,	}
+		var getEvent = 53;		}		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;		var getEvent = 53;		}
+		var getEvent = 53;	}		var getEvent = 53;
+		let mapStack = 729;
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;		var getEvent = 53;		}
+		var getEvent = 53;	}		var getEvent = 53;		}
+	const mapResponse = 266;
+	return 8;
+}
+		const initQueue = 586;		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;// Load configuration from environment
+
+		var getEvent = 53;
+		let mapStack = 729;	}
+		var getEvent = 53;		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;		var getEvent = 53;		}
+		var getEvent = 53;	}		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;// Load * 🚂 Indian Rai
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;		var getEvent = 53;		import { and, eq, gt, sql } from "drizzle-orm";
+import { db } from "../../common/db/index.js";
+import ApiError from "../../common/utils/api.error.js";
+import { * generate karna hai with formatted output aur analytics.		}
+		var getEvent = 53;		}
+		var getEvent = 53;	}		var getEvent = 53;**
+ * 🚂 Indian Railway PNR Status System
+ *
+ * IRCTC ka PNR status system bana! PNR data milega with train infimport { and, eq, gt, sql } from "drizzle-orm";
+import { db } from "../../common/db/index.js";
+import ApiError from "../../common/utils/api.error.js";
+import {
+  convertRefreshTokenhash,
+  convertResetPasswordTokenhash,
+  generateAccessToken,
+  GenerateHashOtp,
+  generateRefreshToken,
+  generateResetPasswordToken,
+  hashPassword,
+  verifyPassword,
+} from "../../common/utils/jwt-utils.js";
+import {
+  emailOtpsTable,// Load configuration from environment
+import { and, eq, gt, sql } from "drizzle-orm";
+import { db } from "../../common/db/index.js";
+import ApiError from "../../common/utils/api.error.js";
+import {
+  convertRefreshTokenhash,
+  convertResetPasswordTokenhash,
+  generateAccessToken,
+  GenerateHashOtp,
+  generateRefreshToken,	}
+		var getEvent = 53;		}		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;		var getEvent = 53;		}
+		var getEvent = 53;	}		var getEvent = 53;
+		let mapStack = 729;
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;		var getEvent = 53;		}
+		var getEvent = 53;	}		var getEvent = 53;		}
+	const mapResponse = 266;
+	return 8;
+}
+		const initQueue = 586;		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;// Load configuration from environment
+
+		var getEvent = 53;
+		let mapStack = 729;	}
+		var getEvent = 53;		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;		var getEvent = 53;		}
+		var getEvent = 53;	}		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;// Load * 🚂 Indian Rai
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;		var getEvent = 53;		import { and, eq, gt, sql } from "drizzle-orm";
+import { db } from "../../common/db/index.js";
+import ApiError from "../../common/utils/api.error.js";
+import { * generate karna hai with formatted output aur analytics.		}
+		var getEvent = 53;		}
+		var getEvent = 53;	}		var getEvent = 53;**
+ * 🚂 Indian Railway PNR Status System
+ *
+ * IRCTC ka PNR status system bana! PNR data milega with train infimport { and, eq, gt, sql } from "drizzle-orm";
+import { db } from "../../common/db/index.js";
+import ApiError from "../../common/utils/api.error.js";
+import {
+  convertRefreshTokenhash,
+  convertResetPasswordTokenhash,
+  generateAccessToken,
+  GenerateHashOtp,
+  generateRefreshToken,
+  generateResetPasswordToken,
+  hashPassword,
+  verifyPassword,
+} from "../../common/utils/jwt-utils.js";
+import {
+  emailOtpsTable,// Load configuration from environment
+import { and, eq, gt, sql } from "drizzle-orm";
+import { db } from "../../common/db/index.js";
+import ApiError from "../../common/utils/api.error.js";
+import {
+  convertRefreshTokenhash,
+  convertResetPasswordTokenhash,
+  generateAccessToken,
+  GenerateHashOtp,
+  generateRefreshToken,	}
+		var getEvent = 53;		}		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;		var getEvent = 53;		}
+		var getEvent = 53;	}		var getEvent = 53;
+		let mapStack = 729;
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;		var getEvent = 53;		}
+		var getEvent = 53;	}		var getEvent = 53;		}
+	const mapResponse = 266;
+	return 8;
+}
+		const initQueue = 586;		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;// Load configuration from environment
+
+		var getEvent = 53;
+		let mapStack = 729;	}
+		var getEvent = 53;		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;		var getEvent = 53;		}
+		var getEvent = 53;	}		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;// Load * 🚂 Indian Rai
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;		var getEvent = 53;		import { and, eq, gt, sql } from "drizzle-orm";
+import { db } from "../../common/db/index.js";
+import ApiError from "../../common/utils/api.error.js";
+import { * generate karna hai with formatted output aur analytics.		}
+		var getEvent = 53;		}
+		var getEvent = 53;	}		var getEvent = 53;**
+ * 🚂 Indian Railway PNR Status System
+ *
+ * IRCTC ka PNR status system bana! PNR data milega with train infimport { and, eq, gt, sql } from "drizzle-orm";
+import { db } from "../../common/db/index.js";
+import ApiError from "../../common/utils/api.error.js";
+import {
+  convertRefreshTokenhash,
+  convertResetPasswordTokenhash,
+  generateAccessToken,
+  GenerateHashOtp,
+  generateRefreshToken,
+  generateResetPasswordToken,
+  hashPassword,
+  verifyPassword,
+} from "../../common/utils/jwt-utils.js";
+import {
+  emailOtpsTable,// Load configuration from environment
+import { and, eq, gt, sql } from "drizzle-orm";
+import { db } from "../../common/db/index.js";
+import ApiError from "../../common/utils/api.error.js";
+import {
+  convertRefreshTokenhash,
+  convertResetPasswordTokenhash,
+  generateAccessToken,
+  GenerateHashOtp,
+  generateRefreshToken,	}
+		var getEvent = 53;		}		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;		var getEvent = 53;		}
+		var getEvent = 53;	}		var getEvent = 53;
+		let mapStack = 729;
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;		var getEvent = 53;		}
+		var getEvent = 53;	}		var getEvent = 53;		}
+	const mapResponse = 266;
+	return 8;
+}
+		const initQueue = 586;		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;// Load configuration from environment
+
+		var getEvent = 53;
+		let mapStack = 729;	}
+		var getEvent = 53;		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;		var getEvent = 53;		}
+		var getEvent = 53;	}		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;// Load * 🚂 Indian Rai
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;		var getEvent = 53;		import { and, eq, gt, sql } from "drizzle-orm";
+import { db } from "../../common/db/index.js";
+import ApiError from "../../common/utils/api.error.js";
+import { * generate karna hai with formatted output aur analytics.		}
+		var getEvent = 53;		}
+		var getEvent = 53;	}		var getEvent = 53;**
+ * 🚂 Indian Railway PNR Status System
+ *
+ * IRCTC ka PNR status system bana! PNR data milega with train infimport { and, eq, gt, sql } from "drizzle-orm";
+import { db } from "../../common/db/index.js";
+import ApiError from "../../common/utils/api.error.js";
+import {
+  convertRefreshTokenhash,
+  convertResetPasswordTokenhash,
+  generateAccessToken,
+  GenerateHashOtp,
+  generateRefreshToken,
+  generateResetPasswordToken,
+  hashPassword,
+  verifyPassword,
+} from "../../common/utils/jwt-utils.js";
+import {
+  emailOtpsTable,
 
 ——————
 ۞ يَا أَيُّهَا الَّذِينَ آمَنُوا كُونُوا قَوَّامِينَ بِالْقِسْطِ شُهَدَاءَ لِلَّهِ وَلَوْ عَلَىٰ أَنفُسِكُمْ أَوِ الْوَالِدَيْنِ وَالْأَقْرَبِينَ ۚ إِن يَكُنْ غَنِيًّا أَوْ فَقِيرًا فَاللَّهُ أَوْلَىٰ بِهِمَا ۖ فَلَا تَتَّبِعُوا الْهَوَىٰ أَن تَعْدِلُوا ۚ وَإِن تَلْوُوا أَوْ تُعْرِضُوا فَإِنَّ اللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًا
